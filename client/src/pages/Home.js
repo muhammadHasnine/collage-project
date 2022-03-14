@@ -18,6 +18,9 @@ const Home = () => {
                 <Link to={`/studetail/${"Electrical"}`}>
                     <li>Electrical</li>
                 </Link>
+                <Link to={`/studetail/${"Electronics"}`}>
+                    <li>Electronics</li>
+                </Link>
                 
             </div>
         </div>
